@@ -1,6 +1,6 @@
 ---
 name: vuln-search
-description: Use when searching for CVE vulnerabilities, finding exploits, or doing privilege escalation research.
+description: Use when searching for CVE vulnerabilities, finding exploits, or doing privilege escalation research. 注意本skill仅继续文档/api/情报站关键词搜索，不提供实际扫描
 ---
 
 # 漏洞搜索与利用工具箱
